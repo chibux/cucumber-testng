@@ -8,17 +8,17 @@
     <artifactId>jvm-cucumber</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <cucumber.version>3.0.2</cucumber.version>
+        <cucumber.version>1.2.5</cucumber.version>
     </properties>
 
     <dependencies>
         <dependency>
-            <groupId>io.cucumber</groupId>
+            <groupId>info.cukes</groupId>
             <artifactId>cucumber-java</artifactId>
             <version>${cucumber.version}</version>
         </dependency>
         <dependency>
-            <groupId>io.cucumber</groupId>
+            <groupId>info.cukes</groupId>
             <artifactId>cucumber-testng</artifactId>
             <version>${cucumber.version}</version>
         </dependency>
