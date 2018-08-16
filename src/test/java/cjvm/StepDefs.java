@@ -1,7 +1,7 @@
 package cjvm;
 
 import cucumber.api.java.en.When;
-import org.testng.Assert;
+import org.junit.Assert;
 
 
 public class StepDefs {
